@@ -123,6 +123,11 @@ th, td {
     text-align: center;
 }
 
+tfoot td {
+    font-weight: bold;
+    background-color: #f9f9f9;
+    padding: 15px;
+}
 /* Footer */
 .footer {
     background-color: #576ff5;
